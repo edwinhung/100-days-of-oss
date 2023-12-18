@@ -45,3 +45,12 @@
 - **Challenges faced**: 
 - **Resources used**: LFD102
 - **OpenSauced Highlight**: I am fascinated by course content and organization, which is easy and intriging to follow.
+
+## Day 4
+
+- **Project**: My OSS
+- **Description**: Started my open source project, habit tracker on GitHub
+- **Tasks completed**: scaffolding on Electron and vite
+- **Challenges faced**: configuration in Electron and vite
+- **Resources used**: electron-vite open source repo
+- **OpenSauced Highlight**: super easy to setup the app with electron-vite (https://github.com/alex8088/electron-vite)
