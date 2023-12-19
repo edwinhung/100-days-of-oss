@@ -54,3 +54,12 @@
 - **Challenges faced**: configuration in Electron and vite
 - **Resources used**: electron-vite open source repo
 - **OpenSauced Highlight**: super easy to setup the app with electron-vite (https://github.com/alex8088/electron-vite)
+
+# Day 5
+
+- **Project**: OSS knowledge
+- **Description**: learn successful OSS in real world
+- **Tasks completed**: finished chapter 3 and 4 of LFD102
+- **Challenges faced**: 
+- **Resources used**: LFD102
+- **OpenSauced Highlight**: 
