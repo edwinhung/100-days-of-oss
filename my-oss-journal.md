@@ -63,3 +63,12 @@
 - **Challenges faced**: 
 - **Resources used**: LFD102
 - **OpenSauced Highlight**: 
+
+# Day 6
+
+- **Project**: OSS knowledge
+- **Description**: Learn about OSS licensing
+- **Tasks completed**: Completed chapter 5,6,7,8,9,10 of LFD102
+- **Challenges faced**: 
+- **Resources used**: LFD102
+- **OpenSauced Highlight**: 
