@@ -72,3 +72,12 @@
 - **Challenges faced**: 
 - **Resources used**: LFD102
 - **OpenSauced Highlight**: 
+
+# Day 7
+
+- **Project**: OSS knowledge
+- **Description**: Learn about automatic tools for OSS licensing
+- **Tasks completed**: Completed chapter 11 of LFD102
+- **Challenges faced**: 
+- **Resources used**: LFD102
+- **OpenSauced Highlight**: 
