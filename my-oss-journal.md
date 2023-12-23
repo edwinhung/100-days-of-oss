@@ -81,3 +81,12 @@
 - **Challenges faced**: 
 - **Resources used**: LFD102
 - **OpenSauced Highlight**: 
+
+# Day 8
+
+- **Project**: explore OSS
+- **Description**: Learn about OSS tools and start to explore ways to make contributions
+- **Tasks completed**: Completed LFD102 and setup freeCodeCamp on local machine
+- **Challenges faced**: 
+- **Resources used**: LFD102
+- **OpenSauced Highlight**: 
