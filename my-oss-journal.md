@@ -90,3 +90,12 @@
 - **Challenges faced**: 
 - **Resources used**: LFD102
 - **OpenSauced Highlight**: 
+
+# Day 9
+
+- **Project**: official contribution
+- **Description**: Setup local copy of freeCodeCamp and make contribution
+- **Tasks completed**: make a PR to fix issue in help post
+- **Challenges faced**: 
+- **Resources used**: 
+- **OpenSauced Highlight**: 
