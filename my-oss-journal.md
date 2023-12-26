@@ -99,3 +99,14 @@
 - **Challenges faced**: 
 - **Resources used**: 
 - **OpenSauced Highlight**: 
+
+# Day 10
+
+- **Project**: OSS contribution
+- **Description**: first PR merged for freeCodeCamp, and improved my own project
+- **Tasks completed**: 
+  - first PR merged to main
+  - refactor my habit-tracker app with useReducer
+- **Challenges faced**: 
+- **Resources used**: 
+- **OpenSauced Highlight**: 
