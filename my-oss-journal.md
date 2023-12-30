@@ -110,3 +110,14 @@
 - **Challenges faced**: 
 - **Resources used**: 
 - **OpenSauced Highlight**: 
+
+# Day 11
+
+- **Project**: My OSS
+- **Description**: take the new Javascript course from freeCodeCamp to find potential bugs
+- **Tasks completed**: 
+  - freeCodeCamp new beta Javascript course
+  - improve habit-tracker by adding reset button and localStorage
+- **Challenges faced**: 
+- **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+- **OpenSauced Highlight**: 
