@@ -121,3 +121,13 @@
 - **Challenges faced**: 
 - **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 - **OpenSauced Highlight**: 
+
+# Day 11
+
+- **Project**: PR for freeCodeCamp
+- **Description**: created a PR for Issue#52811
+- **Tasks completed**: 
+  - wrote tests for the new RPG course
+- **Challenges faced**: it's hard to find a optimal solution for writing tests
+- **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+- **OpenSauced Highlight**: 
