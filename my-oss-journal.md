@@ -141,3 +141,13 @@
 - **Challenges faced**: 
 - **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 - **OpenSauced Highlight**: 
+
+# Day 14
+
+- **Project**: PR for freeCodeCamp
+- **Description**: improved tests for PR for Issue#52811 with suggestions from maintainer. 
+- **Tasks completed**: 
+  - improved regex for tests to avoid confusing hints.
+- **Challenges faced**: a different merged PR changed the same file in question, so I am in communication to find solution.
+- **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+- **OpenSauced Highlight**: 
