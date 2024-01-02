@@ -122,12 +122,22 @@
 - **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 - **OpenSauced Highlight**: 
 
-# Day 11
+# Day 12
 
 - **Project**: PR for freeCodeCamp
 - **Description**: created a PR for Issue#52811
 - **Tasks completed**: 
   - wrote tests for the new RPG course
 - **Challenges faced**: it's hard to find a optimal solution for writing tests
+- **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+- **OpenSauced Highlight**: 
+
+# Day 13
+
+- **Project**: PR for freeCodeCamp
+- **Description**: more commit for PR for Issue#52811 with suggestions from maintainer. 
+- **Tasks completed**: 
+  - moved tests to avoid confusing hints.
+- **Challenges faced**: 
 - **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 - **OpenSauced Highlight**: 
