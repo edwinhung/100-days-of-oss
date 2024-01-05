@@ -151,3 +151,12 @@
 - **Challenges faced**: a different merged PR changed the same file in question, so I am in communication to find solution.
 - **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 - **OpenSauced Highlight**: 
+
+# Day 15
+
+- **Project**: PR for freeCodeCamp
+- **Description**:  PR for Issue#52811 is now merged into main!
+- **Tasks completed**: 
+- **Challenges faced**: 
+- **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+- **OpenSauced Highlight**: 
