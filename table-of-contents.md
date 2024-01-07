@@ -20,7 +20,7 @@
   - [Day 13](my-oss-journal.md#day-13)
   - [Day 14](my-oss-journal.md#day-14)
   - [Day 15](my-oss-journal.md#day-15)
-  - [Day 16](#day-16)
+  - [Day 16](my-oss-journal.md#day-16)
   - [Day 17](#day-17)
   - [Day 18](#day-18)
   - [Day 19](#day-19)

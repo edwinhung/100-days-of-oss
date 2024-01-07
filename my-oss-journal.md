@@ -160,3 +160,12 @@
 - **Challenges faced**: 
 - **Resources used**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 - **OpenSauced Highlight**: 
+
+# Day 16
+
+- **Project**: OSS YouTube
+- **Description**:  OSS contributor and maintainer story from GitHub YouTube
+- **Tasks completed**: Watched the YouTube video
+- **Challenges faced**: 
+- **Resources used**: https://www.youtube.com/live/r5eG28vxqP0?si=O-jDcSGMs9mH8jj1
+- **OpenSauced Highlight**: 
