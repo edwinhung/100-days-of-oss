@@ -1,3 +1,4 @@
+*I decided to join freeCodeCamp community's [100-days-of-code challenge](https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/), as I spend more time there and I like the active vibe of the community. So, this repo is now archived.*
 # 100-days-of-oss-template
 
 A journal template to help you keep up with your #100DaysOfOSS work.
