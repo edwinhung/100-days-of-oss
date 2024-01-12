@@ -169,3 +169,12 @@
 - **Challenges faced**: 
 - **Resources used**: https://www.youtube.com/live/r5eG28vxqP0?si=O-jDcSGMs9mH8jj1
 - **OpenSauced Highlight**: 
+
+# Day 17
+
+- **Project**: OSS book
+- **Description**:  
+- **Tasks completed**: Read first chapter of 500 Lines or Less
+- **Challenges faced**: 
+- **Resources used**: https://aosabook.org/en/index.html
+- **OpenSauced Highlight**: 
